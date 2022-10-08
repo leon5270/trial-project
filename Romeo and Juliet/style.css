@@ -1,0 +1,22 @@
+body
+{
+    background-color: #F5F5F5;
+	
+}
+h1
+{
+	font-size: 45px;
+	color: #483D8B;
+	text-align: center;
+
+}
+h2
+{
+	margin-left: 3px;
+	color: #6D8296;
+}
+div	
+{
+	font-size: 20px;
+    margin-left: 3px;
+}

@@ -1,0 +1,34 @@
+body
+{
+	background-color: #F5F5F5;
+	font-family: Times New Roman;
+	font-size: 20px;
+}
+abbr
+{
+	border-bottom: 2px dotted #00001B;
+}
+pre
+{
+    margin-left: 27%;
+	padding-left: 20px;
+	background-color: #E7E7E7; color: #902B43;
+    font-size: 16px;
+ }  
+h1
+{
+	text-align: center;
+}
+h2
+{
+	text-align: center;
+
+}
+p
+{
+	margin-left: 26%;
+}
+hr
+{
+	width: 48%;
+}
